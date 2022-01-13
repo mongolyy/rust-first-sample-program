@@ -1,0 +1,1 @@
+# rust-first-sample-program
